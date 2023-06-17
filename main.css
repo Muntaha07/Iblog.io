@@ -522,3 +522,86 @@ footer > p{
     }
 }
 
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.event {
+    border: 20px solid #ccc;
+    border-radius: 76px;
+    padding: 10px  56px;
+    margin-bottom: 10px;
+    background-color: #f0f3fa
+}
+
+.event .title {
+    font-weight: bold;
+}
+
+.event .date {
+    color: #666;
+}
+
+.event .location {
+    color: #999;
+}
+
+/*****RECENT JOB SECTION RECENT JOB SECTION*****/
+.recent-job {
+	padding-top: 50px;
+	background-color: #f0f3fa;
+	padding-bottom: 60px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.recent-job-heading {
+	text-align: center;
+	color: #343a40;
+}
+
+.recent-job-sub-heading {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+.recent-job-list {
+	float: left;
+	background-color:#8cbab2;
+	padding: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px
+    
+}
+
+.job-title {
+	font-size: 20px;
+}
+
+.job-company {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.job-company i {
+	color: orange;
+	margin-left: 10px;
+}
+
+.job-skill {
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+
+.job-apply-button {
+	background:#60608d;
+	padding: 10px;
+	color: white;
+	text-decoration: none;
+	float: right;
+}
