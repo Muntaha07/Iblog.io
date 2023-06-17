@@ -1,1 +1,1 @@
-# Iblog.io all reights Muntaha Majeed..
+# Iblog.io all rights Muntaha Majeed..
